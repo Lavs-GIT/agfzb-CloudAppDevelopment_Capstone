@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost"]
+ALLOWED_HOSTS = ["localhost", 'localhost:8000', 'djangoappmar06.eu-gb.mybluemix.net', 'https://lavanyar-8000.theiadocker-3-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai']
 
 
 # Application definition
